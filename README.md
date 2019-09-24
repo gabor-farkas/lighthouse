@@ -8,4 +8,4 @@ It uses
 * A Wemos D1 mini with the program here
 * Some resistor
 * a 2x1.5 battery box
-* It also features my home WiFi password, so if you know where I leave, come and take some internet :)
+* It also features my home WiFi password, so if you know where I live, come and take some internet :)
